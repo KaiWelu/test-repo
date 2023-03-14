@@ -16,4 +16,5 @@ Hallo Welt!
   - this is a lower level indent with two spaces
 
 # this is how checkbox lists work
-- [ ] good vibes :)
+- [x] good vibes :)
+- [ ] winter
