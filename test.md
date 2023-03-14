@@ -18,3 +18,7 @@ Hallo Welt!
 # this is how checkbox lists work
 - [x] good vibes :)
 - [ ] winter
+
+#this is how outside and document links work
+- go to [Heading 1](#heading-1)
+- click [this link](https://www.kicker.de/) to get updated on the Bundesliga
