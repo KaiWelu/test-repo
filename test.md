@@ -10,7 +10,10 @@ Hallo Welt!
 ### Heading 3
 #### Heading 4
 
-# this is how a list works
+# this is how an unsorted list works
 
 - this is the top level
   - this is a lower level indent with two spaces
+
+# this is how checkbox lists work
+- [ ] good vibes :)
